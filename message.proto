@@ -1,5 +1,4 @@
 message Person { 
   int64 id
   string name 
-  string nick
 }
