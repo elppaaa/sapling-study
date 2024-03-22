@@ -38,10 +38,6 @@ let package = Package(
       exact: "1.30.3"
     ),
     .package(
-      url: "https://github.com/Alamofire/Alamofire.git",
-      from: "5.8.0"
-    ),
-    .package(
       url: "https://github.com/kakao/kakao-ios-sdk",
       exact: "2.19.0"
     ),
