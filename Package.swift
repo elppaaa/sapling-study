@@ -82,10 +82,6 @@ let package = Package(
       revision: "2f138eea2ffba61d3b181666a4a25fbbb40bfb9b"
     ),
     .package(
-      url: "https://github.com/kean/Pulse.git",
-      branch: "main"
-    ),
-    .package(
       url: "https://github.com/airbnb/lottie-spm.git",
       exact: "4.3.4"
     ),

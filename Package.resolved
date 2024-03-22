@@ -136,15 +136,6 @@
       }
     },
     {
-      "identity" : "pulse",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/kean/Pulse.git",
-      "state" : {
-        "branch" : "main",
-        "revision" : "77014c2b2d25f2b0bd2a4c560c0609d0c116bc11"
-      }
-    },
-    {
       "identity" : "reactorkit",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/ReactorKit/ReactorKit.git",
