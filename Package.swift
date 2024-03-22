@@ -91,7 +91,7 @@ let package = Package(
     ),
     .package(
       url: "https://github.com/pointfreeco/swift-composable-architecture.git",
-      exact: "1.9.0"
+      exact: "1.9.2"
     ),
     .package(
       url: "https://github.com/SwiftyLab/MetaCodable.git",
