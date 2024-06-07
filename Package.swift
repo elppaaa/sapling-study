@@ -96,7 +96,7 @@ let package = Package(
     .package(
       url: "https://github.com/SwiftyLab/MetaCodable.git",
       exact: "1.1.0"
-    )
+    ),
   ]
 )
 
